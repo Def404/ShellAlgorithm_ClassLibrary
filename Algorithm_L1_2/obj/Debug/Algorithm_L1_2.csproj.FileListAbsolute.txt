@@ -1,0 +1,12 @@
+C:\Users\basc1\iCloudDrive\Program\Algorithm_L1_2\Algorithm_L1_2\bin\Debug\Algorithm_L1_2.exe
+C:\Users\basc1\iCloudDrive\Program\Algorithm_L1_2\Algorithm_L1_2\bin\Debug\Algorithm_L1_2.pdb
+C:\Users\basc1\iCloudDrive\Program\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.csproj.AssemblyReference.cache
+C:\Users\basc1\iCloudDrive\Program\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.csproj.CoreCompileInputs.cache
+C:\Users\basc1\iCloudDrive\Program\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.exe
+C:\Users\basc1\iCloudDrive\Program\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.pdb
+C:\Users\basc1\source\repos\Algorithm_L1_2\Algorithm_L1_2\bin\Debug\Algorithm_L1_2.exe
+C:\Users\basc1\source\repos\Algorithm_L1_2\Algorithm_L1_2\bin\Debug\Algorithm_L1_2.pdb
+C:\Users\basc1\source\repos\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.csproj.AssemblyReference.cache
+C:\Users\basc1\source\repos\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.csproj.CoreCompileInputs.cache
+C:\Users\basc1\source\repos\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.exe
+C:\Users\basc1\source\repos\Algorithm_L1_2\Algorithm_L1_2\obj\Debug\Algorithm_L1_2.pdb
